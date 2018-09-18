@@ -1,2 +1,2 @@
 config:
-  - VAULT_ENV:default
+  - VAULT_ENV: default
