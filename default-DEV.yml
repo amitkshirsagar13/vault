@@ -1,0 +1,2 @@
+config:
+  - VAULT_DEV_ENV: dev_default
